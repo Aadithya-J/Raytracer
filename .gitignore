@@ -1,0 +1,33 @@
+# Ignore compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore build directories
+main.dSYM/
+CMakeFiles/
+build/
+dist/
+bin/
+
+
+CMakeCache.txt
+cmake_install.cmake
+
+# Ignore system and IDE files
+.DS_Store
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
