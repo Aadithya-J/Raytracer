@@ -5,7 +5,6 @@
 *.elf
 
 # Ignore executable files
-*.exe
 *.out
 *.app
 
