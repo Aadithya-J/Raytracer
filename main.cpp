@@ -20,3 +20,11 @@ int main(){
     }
     std::clog << "\rDone.                 \n";
 }
+
+/*
+TODO:
+1. Raytracer
+2. Spring Backend project
+3. Socket.io for messaging app
+4. node.js chess multiplayer
+*/
